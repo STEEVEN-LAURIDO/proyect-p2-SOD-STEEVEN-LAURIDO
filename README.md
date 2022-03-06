@@ -33,3 +33,6 @@ Amazon Route 53, se paga por  lo que se utilice, ya que no utiliza cuotas por ad
 •	Administración de zonas alojadas: se paga una tarifa mensual por cada zona hospedada que se administre con Route 53.
 •	Servicio de consultas de DNS: se cobrarán cargos por cada consulta de DNS a la que responda el servicio Amazon Route 53, excepto las consultas a registros.
 •	Administración de nombres de dominio: se paga una tarifa anual por cada nombre de dominio que se registre a través de, o se transfiere a, Route 53.
+
+PRACTICA DE ROUTE
+SUBIR UN SITIO WEB POR MEDIO DE DE ROUTE 53, USANDO UN DOMINIO, UN PROYECTO DE UN SITIO WEB Y USANDO APACHE.
